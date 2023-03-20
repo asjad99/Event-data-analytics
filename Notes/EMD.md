@@ -7,3 +7,10 @@ Determining Intrinsic Trend for non linear and nonstationary time series. This m
 components which help you analyze / understand data inherent features. 
 
 This has been implemented in this this library https://emd.readthedocs.io/en/stable/
+
+--
+
+This paper which discusses best practices around the use of EMD: https://www.nature.com/articles/s41598-020-72193-2  
+encourages the use of newer variants of the methods that overcomes some of the shortcomings of the original method. 
+
+https://www.mathworks.com/help/signal/ref/emd.html 
