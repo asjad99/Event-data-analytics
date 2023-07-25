@@ -1,4 +1,28 @@
 
+
+### Projects: 
+
+
+1. Distributed Event Mining
+2. Predictive Process Monitoring
+3. Anomaly detection for predictive Maintience
+4. Prescriptive Monitoring for decision Support
+5. Knowledge graph for supporting Process Mining
+6. Plant Stress detection using Bosh BME688  
+7. Recommender System
+8. Semantic Search  
+
+
+
+
+
+
+
+
+
+
+
+
 ### Rise of IOT 
 
 IoT (Internet of Things) is a concept that broadens the idea of connecting multiple devices to each other over the Internet and enabling communication between these devices. Traditionally, the packets are sent over the network for communication only if both, the sender as well as the receiver, are online. This forces the sender and the receiver to be online 24×7; which is not achievable in each and every environment the devices communicates in. Considering the humongous data generated in the communication, it is necessary to store and process this data so that data insights can be identified to improve the organizational benefits. This generated data can be in two forms, real-time as well as existing or historical data. When this data is obtained in real-time and it is processed, even traditional big data technologies do not perform up to the mark. Hence to process this real-time data, streaming of this data is required; which is not a feature of traditional big data technologies. To achieve these objectives, open source technologies such as Apache Kafka, for online and offline consumption of messages, and Apache Spark, to stream, process and provide a structure to the real-time and existing data
